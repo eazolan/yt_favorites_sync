@@ -1,0 +1,7 @@
+yt-dlp[default]>=2026.8.19
+yt-dlp-ejs
+# ffmpeg must also be installed on PATH for --extract-audio to MP3.
+# On Windows: https://ffmpeg.org/download.html (static build recommended)
+# A JavaScript runtime (Node.js or Deno) is required for YouTube n-challenge solving.
+# The script installs these Python packages on startup when they are missing.
+# The script will use cookies for authentication (see README).

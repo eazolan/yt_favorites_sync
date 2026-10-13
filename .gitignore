@@ -1,0 +1,5 @@
+user_config.json
+cookies.txt
+*.log
+__pycache__/
+plan.html
